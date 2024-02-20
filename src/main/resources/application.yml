@@ -1,0 +1,10 @@
+spring:
+  artemis:
+    mode: embedded
+
+game:
+  max-players-allowed: 2
+
+server:
+  error:
+    include-message: always
